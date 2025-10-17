@@ -11,7 +11,7 @@ function Home() {
         <div style={{ padding: '2rem' }}>
             <h1>Home Page</h1>
             <p>React Router DOM v7 Test!</p>
-            <p>createBrowserRouter방식 사용함</p>
+            <p>createBrowserRouter방식 사용함 </p>
             <button
                 onClick={handleGoToList}
                 style={{
