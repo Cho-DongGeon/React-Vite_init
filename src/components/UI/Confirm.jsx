@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './Confirm.module.css';
-import styles from './'
 
 export default function Confirm({ text, onConfirm, onCancel }) {
     const handleConfirm = () => {
